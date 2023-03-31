@@ -1,6 +1,6 @@
 Name:		texlive-envlab
 Version:	61937
-Release:	1
+Release:	2
 Summary:	Addresses on envelopes or mailing labels
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/envlab
