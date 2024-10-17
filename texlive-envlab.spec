@@ -3,7 +3,7 @@ Version:	61937
 Release:	2
 Summary:	Addresses on envelopes or mailing labels
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/envlab
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/envlab
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/envlab.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/envlab.doc.r%{version}.tar.xz
